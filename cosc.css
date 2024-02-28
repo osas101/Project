@@ -1,0 +1,41 @@
+.{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: aquamarine;
+}
+img{
+    width: 60%;
+    margin: 1px auto;
+    display: block;
+    
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+}
+.container {
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+#countdown {
+    font-size: 24px;
+    margin-top: 20px;
+}
+#countdown-box {
+    border: 2px solid #333;
+    border-radius: 8px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#countdown {
+    font-size: 24px;
+    margin-top: 20px;
+}
